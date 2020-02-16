@@ -6,7 +6,7 @@ This package provides two additional methods to the fastai learner :
 - `.manifold_mixup()` which implements [ManifoldMixup](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)
 - `.output_mixup()` which implements a variant that does the mixup only on the output of the last layer (this was shown to be more performant on a [benchmark](https://forums.fast.ai/t/mixup-data-augmentation/22764/72) and an independant [blogpost](https://medium.com/analytics-vidhya/better-result-with-mixup-at-final-layer-e9ba3a4a0c41))
 
-**Note:** For a [fastai V2](http://dev.fast.ai/) compatible version, see the [V2 branch](https://github.com/nestordemeure/ManifoldMixup/tree/V2).
+**Note:** For a [fastai V2](http://dev.fast.ai/) compatible version, see the [V2 repository](https://github.com/nestordemeure/ManifoldMixupV2).
 
 ## Usage
 
